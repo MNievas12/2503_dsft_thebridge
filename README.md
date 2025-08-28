@@ -1,5 +1,6 @@
 # Bootcamp - Data Science - Marzo 2025 - The Bridge
 
+!HOLA CLASE DE DATA DESDE FS!
 
 ![The Bridge](./1-Fundamentals/Python/img/TheBridge_logo.png)
 
